@@ -1,3 +1,4 @@
+
 #
 # Copyright (C) 2017 The LineageOS Project
 #
@@ -143,7 +144,7 @@ BOARD_RAMDISK_OFFSET := 0x01000000
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_CLANG_COMPILE := true
-TARGET_KERNEL_SOURCE := kernel/motorola/msm8998
+TARGET_KERNEL_SOURCE := kernel/motorola/sdm660
 
 # Lights
 TARGET_PROVIDES_LIBLIGHT := true
